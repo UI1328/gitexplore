@@ -1,0 +1,8 @@
+# this is a comment.
+
+
+*.js
+node_module/
+assets/videos/
+*.mp4
+!app.js
