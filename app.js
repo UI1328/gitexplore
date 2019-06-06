@@ -1,3 +1,3 @@
 this is JS
 
-use login from google.
+add link for google signup.
